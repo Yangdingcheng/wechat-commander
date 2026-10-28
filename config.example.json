@@ -1,0 +1,1 @@
+{"admin_port":8760,"ai":{"api_key":"","base_url":"https://api.deepseek.com/v1","enabled":false,"model":"deepseek-chat"},"apps":{"记事本":"notepad.exe"},"chat_backend":"echo","extra_disks":[],"file_dirs":[],"jobs":{"稿件":{"cmd":["python","pipeline.py"],"cwd":"C:\\path\\to\\wechat-pipeline","timeout":1800}},"owners":[],"state_dir":"state"}
